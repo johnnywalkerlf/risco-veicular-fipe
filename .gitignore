@@ -1,0 +1,8 @@
+data/raw/
+data/silver/
+data/gold/
+data/ivr_susep.csv
+__pycache__/
+.ipynb_checkpoints/
+*.parquet
+.venv/
